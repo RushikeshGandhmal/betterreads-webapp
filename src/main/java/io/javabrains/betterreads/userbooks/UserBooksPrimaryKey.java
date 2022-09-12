@@ -1,6 +1,5 @@
 package io.javabrains.betterreads.userbooks;
 
-import org.springframework.data.annotation.Id;
 import org.springframework.data.cassandra.core.cql.PrimaryKeyType;
 import org.springframework.data.cassandra.core.mapping.PrimaryKeyClass;
 import org.springframework.data.cassandra.core.mapping.PrimaryKeyColumn;
@@ -29,8 +28,4 @@ public class UserBooksPrimaryKey {
     public void setBookId(String bookId) {
         this.bookId = bookId;
     }
-    
-    
-
-
 }
