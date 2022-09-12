@@ -1,5 +1,4 @@
 # BetterReads web app
-Companion code for the Java Brains code with me series.
 
 Prerequisites:
 1. JDK and IDE installed on your machine
