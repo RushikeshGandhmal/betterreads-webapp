@@ -1,4 +1,4 @@
-# BetterReads Web app
+# BetterReads web app
 
 Prerequisites:
 1. JDK and IDE installed on your machine
